@@ -1,0 +1,5 @@
+{
+    "cmake.configureOnOpen": false,
+    "jupyter.jupyterServerType": "remote",
+    "python.pythonPath": "D:\\miniconda3\\envs\\strive\\python.exe"
+}
