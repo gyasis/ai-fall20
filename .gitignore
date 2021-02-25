@@ -1,3 +1,5 @@
 .ipynb_checkpoints
 .DS_Store
 catboost_info
+MNIST
+MNIST_data
